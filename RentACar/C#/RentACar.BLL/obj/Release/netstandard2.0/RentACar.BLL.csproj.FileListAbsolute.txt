@@ -1,0 +1,28 @@
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BLL.deps.json
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BLL.dll
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BLL.pdb
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BO.dll
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.DAL.dll
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BO.pdb
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.DAL.pdb
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.csprojAssemblyReference.cache
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.AssemblyInfo.cs
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.csproj.CopyComplete
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.dll
+C:\Users\OS\Desktop\RentACarT1-master2\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.pdb
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BLL.deps.json
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BLL.dll
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BLL.pdb
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BO.dll
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.DAL.dll
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.BO.pdb
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\bin\Release\netstandard2.0\RentACar.DAL.pdb
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.csprojAssemblyReference.cache
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.AssemblyInfo.cs
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.csproj.CopyComplete
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.dll
+C:\Users\OS\Desktop\RentACarT1-master2 - Copy (2)\VS\RentACar.BLL\obj\Release\netstandard2.0\RentACar.BLL.pdb
