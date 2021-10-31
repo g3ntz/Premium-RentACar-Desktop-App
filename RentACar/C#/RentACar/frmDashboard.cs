@@ -504,6 +504,7 @@ namespace RentACar
         private void frmDashboard_Load(object sender, EventArgs e)
         {
             rbVehicleAvailableAll.Checked = true;
+            dpDailyReports.Value = DateTime.Today;
         }
 
         public void changePageTitle(string pageTitle)
