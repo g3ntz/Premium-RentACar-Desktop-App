@@ -20,7 +20,6 @@ namespace RentACar.DAL.DAClasses
                         CommandType.StoredProcedure))
                     {
                         command.Parameters.AddWithValue("BookingID", model.BookingID);
-                        command.Parameters.AddWithValue("Date", model.Date);
                         command.Parameters.AddWithValue("VehicleActualCondition", model.VehicleActualConditionRental_Return);
                         command.Parameters.AddWithValue("FuelAmount", model.FuelAmount);
                         command.Parameters.AddWithValue("Mileage", model.Mileage);
